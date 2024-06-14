@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">879992396409</string>
+  <string name="google_storage_bucket" translatable="false">fir-authentication-2eabd.appspot.com</string>
+  <string name="project_id" translatable="false">fir-authentication-2eabd</string>
+  <string name="google_api_key" translatable="false">AIzaSyDMQO0GURnQMBjVr8N5rhFD7B6Zc32cS6Q</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMQO0GURnQMBjVr8N5rhFD7B6Zc32cS6Q</string>
+  <string name="google_app_id" translatable="false">1:879992396409:android:53d60971ce0bbe57c3d2a8</string>
+</resources>
